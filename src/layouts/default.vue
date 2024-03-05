@@ -1,7 +1,11 @@
 <template>
-    <div>
-  
-    </div>
+    <header>
+      header
+    </header>
+    <slot />
+    <footer>
+      footer
+    </footer>
   </template>
   
   <script setup lang="ts">
