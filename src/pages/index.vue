@@ -7,6 +7,7 @@
   
   <script setup lang="ts">
    const a = ref(1)
+   console.log(a.value)
   </script>
   
   <style scoped>
