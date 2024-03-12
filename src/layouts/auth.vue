@@ -2,7 +2,7 @@
   <header>
     header auth
   </header>
-  <slot />
+  <router-view />
   <footer>
     footer auth
   </footer>

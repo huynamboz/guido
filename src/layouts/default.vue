@@ -2,14 +2,13 @@
     <header>
       header
     </header>
-    <slot />
+    <router-view />
     <footer>
       footer
     </footer>
   </template>
   
   <script setup lang="ts">
-   
   </script>
   
   <style scoped>
